@@ -29,6 +29,7 @@ body {
     color: var(--brand-color);
 }
 .contacts-down {
+    max-width: 1600px;
     background: #2F303A;
 }
 .cont-foot {
@@ -186,6 +187,7 @@ body {
     border-bottom: 1px solid #ECECEC;
 }
 .main-article {
+    max-width: 1600px;
     background: #2F303A;
 }
 .title-main {
