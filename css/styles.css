@@ -51,7 +51,7 @@ body {
     display: flex;
     list-style: none;
     justify-content: flex-end;
-    padding-right: 0%;
+    margin-right: 0%;
 }
 .site-nav .link {
     text-decoration: none;
