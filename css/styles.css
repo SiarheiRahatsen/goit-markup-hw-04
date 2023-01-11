@@ -28,6 +28,9 @@ body {
 .link-studio > span {
     color: var(--brand-color);
 }
+.contacts-down {
+    background: #2F303A;
+}
 .cont-foot {
     padding-top: 60px;
     padding-bottom: 60px;
@@ -86,6 +89,7 @@ body {
     margin-left: 8px;
     padding: 6px 22px 6px 22px;
     border-radius: 4px;
+    border: none;
 }
 .pointer-port:hover,
 .pointer-port:focus,
@@ -180,6 +184,9 @@ body {
 }
 .main-header {
     border-bottom: 1px solid #ECECEC;
+}
+.main-article {
+    background: #2F303A;
 }
 .title-main {
     font-weight: 900;
