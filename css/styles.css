@@ -29,7 +29,6 @@ body {
     color: var(--brand-color);
 }
 .contacts-down {
-    max-width: 1600px;
     background: #2F303A;
 }
 .cont-foot {
@@ -51,7 +50,7 @@ body {
 .site-contacts {
     display: flex;
     list-style: none;
-    margin-left: 341px;
+    justify-content: flex-end;
 }
 .site-nav .link {
     text-decoration: none;
