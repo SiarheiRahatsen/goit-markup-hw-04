@@ -45,14 +45,15 @@ body {
     display: flex;
     list-style: none;
     padding: 0%;
-    margin: 32 0 32 0px;
+    margin: 32px 0px 32px 0px;
 
 }
 .site-contacts {
     display: flex;
     list-style: none;
     padding: 0%;
-    margin: 32 0 32 341px;
+    margin: 32px 0px 32px 341px;
+    text-align: right;
 }
 .site-nav .link {
     text-decoration: none;
