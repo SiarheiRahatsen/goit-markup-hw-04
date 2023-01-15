@@ -52,7 +52,7 @@ body {
     display: flex;
     list-style: none;
     padding: 0%;
-    margin: 32px 0px 32px 341px;
+    margin: 32px 0px 32px 345px;
     text-align: right;
 }
 .site-nav .link {
@@ -291,5 +291,5 @@ body {
 .icon-envelope {
     width: 16px;
     height: 12px;
-    margin-left: 345px;
+    margin: 0%;
 }
