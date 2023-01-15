@@ -51,6 +51,7 @@ body {
     display: flex;
     list-style: none;
     margin-left: 341px;
+    padding: 0%;
 }
 .site-nav .link {
     text-decoration: none;
