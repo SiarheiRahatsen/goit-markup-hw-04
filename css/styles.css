@@ -44,14 +44,15 @@ body {
 .site-nav {
     display: flex;
     list-style: none;
-    padding-top: 32px;
-    padding-bottom: 32px;
+    padding: 0%;
+    margin: 32 0 32 0px;
+
 }
 .site-contacts {
     display: flex;
     list-style: none;
-    margin-left: 341px;
     padding: 0%;
+    margin: 32 0 32 341px;
 }
 .site-nav .link {
     text-decoration: none;
