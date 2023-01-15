@@ -45,7 +45,7 @@ body {
     display: flex;
     list-style: none;
     padding: 0%;
-    margin: 32px 0px 32px 0px;
+    margin: 32px 0px 32px 93px;
 
 }
 .site-contacts {
@@ -226,7 +226,7 @@ body {
     line-height: 1.14;
     letter-spacing: 0.02em;
     padding-right: 50px;
-    margin: 0 auto;
+    margin-left: 10px;
     padding: 0;
 }
 .link-main:hover,
@@ -256,6 +256,7 @@ body {
     line-height: 1.14;
     letter-spacing: 0.02em;
     color: var(--primary-color);
+    margin-left: 10px;
 }
 .text-down {
     font-family: 'Roboto';
@@ -285,10 +286,10 @@ body {
 .icon-smartphone {
     width: 10px;
     height: 16px;
-    margin-right: 10px;
+    margin-left: 30px;
 }
 .icon-envelope {
     width: 16px;
     height: 12px;
-    margin-right: 10px;
+    margin-left: 345px;
 }
