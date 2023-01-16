@@ -16,6 +16,16 @@ body {
     padding-top: 94px;
     padding-bottom: 94px;
 }
+.section-1 {
+    padding-top: 94px;
+    padding-bottom: 30px;
+}
+.section-2,
+.section-3,
+.section-4 {
+    padding-top: 0px;
+    padding-bottom: 94px;
+}
 .link-studio {
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
