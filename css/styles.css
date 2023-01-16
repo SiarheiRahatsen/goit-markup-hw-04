@@ -300,3 +300,9 @@ body {
     width: 70px;
     height: 70px;
 }
+.rectangle {
+    height: 120px;
+    width: 270px;
+    background: #F5F4FA;
+    border-radius: 4px;
+  }
