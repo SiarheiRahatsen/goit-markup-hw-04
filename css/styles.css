@@ -293,7 +293,10 @@ body {
     height: 12px;
     margin: 0%;
 }
-.icon-antenna-1 {
+.icon-antenna-1,
+.icon-clock-1,
+.icon-diagram-1,
+.icon-astronaut-1 {
     width: 70px;
     height: 70px;
 }
