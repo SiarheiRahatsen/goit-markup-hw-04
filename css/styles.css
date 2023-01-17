@@ -319,13 +319,14 @@ body {
   }
   .social-media-icons {
     display: flex;
+    list-style: none;
     justify-content: center;
     padding: 10px;
   }
   .circle {
     height: 44px;
     width: 44px;
-    background-color: red;
+    background-color: #c7c4cf;
     border-radius: 50%;
   }
   .icon-instagram-2,
