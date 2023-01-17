@@ -321,12 +321,13 @@ body {
     display: flex;
     list-style: none;
     justify-content: center;
+    align-items: center;
     padding: 10px;
   }
   .circle {
     height: 44px;
     width: 44px;
-    background-color: #c7c4cf;
+    background-color: #6043ad;
     border-radius: 50%;
   }
   .icon-instagram-2,
@@ -335,4 +336,5 @@ body {
   .icon-linkedin-1 {
     width: 20px;
     height: 20px;
+    fill: #AFB1B8;
   }
