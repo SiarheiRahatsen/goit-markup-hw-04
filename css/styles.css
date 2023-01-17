@@ -317,3 +317,21 @@ body {
     background: #c7c4cf;
     border-radius: 4px;
   }
+  .social-media-icons {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+  .circle {
+    height: 44px;
+    width: 44px;
+    background-color: red;
+    border-radius: 50%;
+  }
+  .icon-instagram-2,
+  .icon-twitter-1,
+  .icon-facebook-1,
+  .icon-linkedin-1 {
+    width: 20px;
+    height: 20px;
+  }
