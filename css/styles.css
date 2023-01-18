@@ -325,7 +325,8 @@ body {
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    margin: o auto;
+    margin: 0%;
+    margin-right: 10px;
     padding: 0%;
   }
   .social-media-icons:hover,
