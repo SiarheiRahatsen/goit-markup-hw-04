@@ -322,7 +322,13 @@ body {
     list-style: none;
     justify-content: center;
     align-items: center;
-    padding: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  .social-media-icons:hover,
+  .social-media-icons:focus,
+  .social-media-icons:active {
+    color: var(--brand-color);
   }
   .circle {
     height: 44px;
@@ -337,4 +343,5 @@ body {
     width: 20px;
     height: 20px;
     fill: #AFB1B8;
+    cursor: pointer;
   }
