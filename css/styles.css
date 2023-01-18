@@ -332,7 +332,6 @@ body {
   .circle {
     height: 44px;
     width: 44px;
-    background-color: #6043ad;
     border-radius: 50%;
   }
   .icon-instagram-2,
@@ -343,4 +342,10 @@ body {
     height: 20px;
     fill: #AFB1B8;
     cursor: pointer;
+  }
+  .icon-instagram-2:hover,
+  .icon-instagram-2:focus,
+  .icon-instagram-2:active {
+    fill: var(--brand-color);
+    stroke: #FFFFFF;
   }
