@@ -28,6 +28,9 @@ body {
 }
 .section-4 {
     background-color: #8a428a;
+    width: 1600px;
+    height: auto;
+    margin: auto;
 }
 .link-studio {
     text-decoration: none;
