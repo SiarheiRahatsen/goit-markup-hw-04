@@ -260,7 +260,7 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--primary-color);
-    margin-top: 10px;
+    margin-bottom: 16px;
 }
 .text-num {
     font-weight: 500;
@@ -325,6 +325,8 @@ body {
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    margin: o auto;
+    padding: 0%;
   }
   .social-media-icons:hover,
   .social-media-icons:focus,
