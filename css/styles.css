@@ -46,6 +46,9 @@ body {
 }
 .contacts-down {
     background: #2F303A;
+    width: 1600px;
+    height: auto;
+    margin: auto;
 }
 .cont-foot {
     padding-top: 60px;
@@ -217,6 +220,9 @@ body {
 }
 .main-article {
     background: #2F303A;
+    width: 1600px;
+    height: auto;
+    margin: auto;
 }
 .title-main {
     font-weight: 900;
