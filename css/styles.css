@@ -29,7 +29,6 @@ body {
 .section-4 {
     background-color: #8a428a;
     width: 1600px;
-    height: auto;
     margin: auto;
 }
 .link-studio {
@@ -47,7 +46,6 @@ body {
 .contacts-down {
     background: #2F303A;
     width: 1600px;
-    height: auto;
     margin: auto;
 }
 .cont-foot {
@@ -221,7 +219,6 @@ body {
 .main-article {
     background: #2F303A;
     width: 1600px;
-    height: auto;
     margin: auto;
 }
 .title-main {
