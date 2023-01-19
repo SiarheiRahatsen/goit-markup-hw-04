@@ -7,9 +7,9 @@ body {
     --primary-color: #757575;
 }
 .container {
-    max-width: 1170px;
+    width: 1170px;
     margin: 0 auto;
-    padding: 0 auto;
+    padding: 0px;
     border-style: dashed;
 }
 .section {
@@ -22,14 +22,17 @@ body {
 }
 .section-2,
 .section-3,
-.section-4 {
+.section-4,
+.section-5 {
     padding-top: 0px;
     padding-bottom: 94px;
 }
 .section-4 {
     background-color: #8a428a;
     width: 1600px;
-    margin: auto;
+    margin: 0 auto;
+    padding: 0%;
+    background-position: center center;
 }
 .link-studio {
     text-decoration: none;
@@ -362,4 +365,21 @@ body {
   .icon-instagram-2:active {
     fill: var(--brand-color);
     stroke: #FFFFFF;
+  }
+  .main-section-clients {
+    display: flex;
+    list-style: none;
+    margin: 0 auto;
+    padding: 0%;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .icon-client-1,
+  .icon-client-2,
+  .icon-client-3,
+  .icon-client-4,
+  .icon-client-5,
+  .icon-client-6 {
+    width: 170px;
+    height: 92px;
   }
