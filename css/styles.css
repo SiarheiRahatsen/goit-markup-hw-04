@@ -133,6 +133,9 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+.main-section-one:nth-child(-n+3) {
+    margin-right: 30px;
+}
 .main-section-two {
     margin: 0 auto;
     padding: 0%;
@@ -216,9 +219,6 @@ body {
     letter-spacing: 0.03em;
     color: var(--primary-color);
     text-align: justify;
-}
-.main-text {
-    margin-right: 30px;
 }
 .main-header {
     border-bottom: 1px solid #ECECEC;
