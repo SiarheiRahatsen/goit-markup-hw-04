@@ -133,9 +133,6 @@ body {
     justify-content: space-between;
     align-items: center;
 }
-.main-section-one:nth-child(-n+3) {
-    margin-right: 30px;
-}
 .main-section-two {
     margin: 0 auto;
     padding: 0%;
@@ -211,6 +208,9 @@ body {
     line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+}
+.main-text:nth-child(-n+3) {
+    margin-right: 30px;
 }
 .text {
     font-weight: 400;
