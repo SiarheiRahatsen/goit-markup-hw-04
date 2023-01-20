@@ -224,9 +224,11 @@ body {
     border-bottom: 1px solid #ECECEC;
 }
 .main-article {
-    background: #2F303A;
     width: 1600px;
-    margin: auto;
+    margin: 0 auto;
+    padding: 0px;
+    background-image: url(/goit-markup-hw-04/images/main-page-team.jpg);
+    background-position: center center;
 }
 .title-main {
     font-weight: 900;
