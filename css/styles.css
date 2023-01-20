@@ -230,6 +230,7 @@ body {
     background-image: url(/goit-markup-hw-04/images/main-page-team.jpg);
     background-position: center center;
     background-repeat: no-repeat;
+    background-size: auto auto;
 }
 .title-main {
     font-weight: 900;
@@ -256,7 +257,9 @@ body {
     letter-spacing: 0.02em;
     padding-right: 50px;
     margin-left: 10px;
-    padding: 0;
+    padding: 0px;
+    text-align: center;
+    color: #757575;
 }
 .link-main:hover,
 .link-main:focus,
