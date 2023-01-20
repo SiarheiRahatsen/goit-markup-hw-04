@@ -229,6 +229,7 @@ body {
     padding: 0px;
     background-image: url(/goit-markup-hw-04/images/main-page-team.jpg);
     background-position: center center;
+    background-repeat: no-repeat;
 }
 .title-main {
     font-weight: 900;
