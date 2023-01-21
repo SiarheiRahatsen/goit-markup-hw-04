@@ -403,6 +403,7 @@ body {
     height: 92px;
     fill: #AFB1B8;
     cursor: pointer;
+    border-style: solid 1px;
   }
   .title-footer {
     font-weight: 700;
