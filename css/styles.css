@@ -290,6 +290,7 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--primary-color);
+    margin-top: 0px;
     margin-bottom: 16px;
     padding: 0px;
 }
