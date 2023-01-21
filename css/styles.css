@@ -280,6 +280,8 @@ body {
     letter-spacing: 0.03em;
     margin-top: 30px;
     margin-bottom: 10px;
+    padding: 0px;
+    color: #212121;
 }
 .main-item-prof {
     font-weight: 400;
@@ -289,6 +291,7 @@ body {
     letter-spacing: 0.03em;
     color: var(--primary-color);
     margin-bottom: 16px;
+    padding: 0px;
 }
 .text-num {
     font-weight: 500;
