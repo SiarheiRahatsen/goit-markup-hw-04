@@ -366,6 +366,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: rgb(165, 59, 59);
   }
   .circle:hover {
     color: var(--brand-color);
