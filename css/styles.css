@@ -31,7 +31,7 @@ body {
     background-color: #8a428a;
     width: 1600px;
     margin: 0 auto;
-    padding: 0%;
+    padding: 0px;
     background-position: center center;
 }
 .link-studio {
@@ -49,7 +49,9 @@ body {
 .contacts-down {
     background: #2F303A;
     width: 1600px;
-    margin: auto;
+    margin: 0 auto;
+    padding: 0px;
+    background-position: center center;
 }
 .cont-foot {
     float: left;
