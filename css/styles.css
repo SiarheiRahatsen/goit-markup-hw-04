@@ -55,6 +55,7 @@ body {
 }
 .cont-foot {
     float: left;
+    margin-right: 70px;
 }
 .header-nav {
     display: flex;
