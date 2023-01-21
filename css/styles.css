@@ -358,15 +358,17 @@ body {
     margin: 0 auto;
     padding: 0%;
   }
-  .social-media-icons:hover,
-  .social-media-icons:focus,
-  .social-media-icons:active {
-    color: var(--brand-color);
-  }
   .circle {
     height: 44px;
     width: 44px;
     border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .circle:hover {
+    color: var(--brand-color);
   }
   .icon-instagram-2,
   .icon-twitter-1,
