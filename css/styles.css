@@ -306,6 +306,7 @@ body {
     letter-spacing: 0.03em;
     margin-top: 20px;
     margin-bottom: 60px;
+    color: #FFFFFF;
 }
 .text-down > span {
     color: rgba(109, 101, 101, 0.6);
