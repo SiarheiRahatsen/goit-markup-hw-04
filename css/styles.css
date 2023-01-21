@@ -41,7 +41,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.03em;
     color: #000000;
-    margin-right: 93;
+    margin-right: 93px;
 }
 .link-studio > span {
     color: var(--brand-color);
@@ -414,3 +414,15 @@ body {
     margin-top: 72px;
     margin-bottom: 20px;
   }
+  .link-studio-footer {
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-size: 26px;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    margin-top: 60px;
+  }
+  .link-studio-footer > span {
+    color: var(--brand-color);
+}
