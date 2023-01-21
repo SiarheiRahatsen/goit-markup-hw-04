@@ -176,6 +176,7 @@ body {
 .post-section-detail {
     margin: 0%;
     padding: 0%;
+    cursor: pointer;
 }
 .post-section-detail:hover,
 .post-section-detail:focus,
