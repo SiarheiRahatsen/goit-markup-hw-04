@@ -31,7 +31,6 @@ body {
     background-color: #AFB1B8;
     width: 1600px;
     margin: 0 auto;
-    padding: 0px;
     background-position: center center;
 }
 .link-studio {
@@ -360,6 +359,7 @@ body {
     align-items: center;
     cursor: pointer;
     margin: 0 auto;
+    margin-bottom: 30px;
     padding: 0%;
   }
   .circle {
@@ -374,6 +374,9 @@ body {
   }
   .circle:hover {
     color: var(--brand-color);
+  }
+  .icons-parents:nth-child(-n+3) {
+    margin-right: 10px;
   }
   .icon-instagram-2,
   .icon-twitter-1,
