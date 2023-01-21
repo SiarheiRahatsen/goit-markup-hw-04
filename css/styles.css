@@ -49,6 +49,7 @@ body {
 .contacts-down {
     background: #2F303A;
     width: 1600px;
+    min-height: 100%;
     margin: 0 auto;
     padding: 0px;
     background-position: center center;
