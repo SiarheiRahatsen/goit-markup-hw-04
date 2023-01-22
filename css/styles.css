@@ -376,10 +376,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(165, 59, 59);
   }
-  .circle:hover {
-    color: var(--brand-color);
+  .circle:hover,
+  .circle:focus,
+  .circle:active {
+    background-color: var(--brand-color);
   }
   .circle:nth-child(-n+3) {
     margin-right: 10px;
