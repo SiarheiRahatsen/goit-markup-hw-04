@@ -52,10 +52,10 @@ body {
     margin: 0 auto;
     padding: 0px;
     background-position: center center;
-    display: inline-block;
+    display: flex;
 }
 .cont-foot {
-    margin-right: 70px;
+    display: inline-block;
 }
 .header-nav {
     display: flex;
