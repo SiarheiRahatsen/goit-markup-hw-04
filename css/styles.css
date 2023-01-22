@@ -247,7 +247,7 @@ body {
     background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),url(/goit-markup-hw-04/images/main-page-team.jpg);
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: auto auto;
+    background-size: 100% 100%;
 }
 .title-main {
     font-weight: 900;
