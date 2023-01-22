@@ -460,5 +460,5 @@ body {
 .rectangle-clients:hover,
 .rectangle-clients:focus,
 .rectangle-clients:active {
-    color: var(--brand-color);
+    border-color: var(--brand-color);
 }
