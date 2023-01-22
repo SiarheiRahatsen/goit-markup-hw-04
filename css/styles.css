@@ -21,7 +21,6 @@ body {
 }
 .section-2,
 .section-3,
-.section-4,
 .section-5 {
     padding-top: 0px;
     padding-bottom: 94px;
@@ -31,6 +30,8 @@ body {
     width: 1600px;
     margin: 0 auto;
     background-position: center center;
+    padding-top: 94px;
+    padding-bottom: 94px;
 }
 .link-studio {
     text-decoration: none;
