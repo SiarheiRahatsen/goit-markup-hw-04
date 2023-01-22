@@ -427,6 +427,31 @@ body {
   .icon-client-1:active {
     fill: var(--brand-color);
   }
+  .icon-client-2:hover,
+  .icon-client-2:focus,
+  .icon-client-2:active {
+    fill: var(--brand-color);
+  }
+  .icon-client-3:hover,
+  .icon-client-3:focus,
+  .icon-client-3:active {
+    fill: var(--brand-color);
+  }
+  .icon-client-4:hover,
+  .icon-client-4:focus,
+  .icon-client-4:active {
+    fill: var(--brand-color);
+  }
+  .icon-client-5:hover,
+  .icon-client-5:focus,
+  .icon-client-5:active {
+    fill: var(--brand-color);
+  }
+  .icon-client-6:hover,
+  .icon-client-6:focus,
+  .icon-client-6:active {
+    fill: var(--brand-color);
+  }
   .title-footer {
     font-weight: 700;
     font-size: 14px;
