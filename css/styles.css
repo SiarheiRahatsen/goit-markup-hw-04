@@ -503,3 +503,13 @@ body {
 .rectangle-clients:active {
     border-color: var(--brand-color);
 }
+.social-media-icons-footer {
+    display: flex;
+    list-style: none;
+    justify-content: left;
+    align-items: center;
+    cursor: pointer;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding: 0%;
+}
