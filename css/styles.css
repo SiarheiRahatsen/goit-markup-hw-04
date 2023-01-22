@@ -506,7 +506,7 @@ body {
 .social-media-icons-footer {
     display: flex;
     list-style: none;
-    justify-content: left;
+    justify-content: flex-start;
     align-items: center;
     cursor: pointer;
     padding: 0%;
