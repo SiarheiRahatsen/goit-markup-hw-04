@@ -455,4 +455,10 @@ body {
     height: 92px;
     border: 1px solid #AFB1B8;
     border-radius: 4px;
+    cursor: pointer;
+}
+.rectangle-clients:hover,
+.rectangle-clients:focus,
+.rectangle-clients:active {
+    color: var(--brand-color);
 }
