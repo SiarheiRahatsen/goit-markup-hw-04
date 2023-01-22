@@ -52,7 +52,7 @@ body {
     margin: 0 auto;
     padding: 0px;
     background-position: center center;
-    display: flex;
+    display: inline-block;
 }
 .cont-foot {
     margin-right: 70px;
