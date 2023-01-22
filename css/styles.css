@@ -46,9 +46,8 @@ body {
     color: var(--brand-color);
 }
 .contacts-down {
-    background: #2F303A;
+    background-color: #2F303A;
     width: 1600px;
-    height: 300px;
     margin: 0 auto;
     padding: 0px;
     background-position: center center;
