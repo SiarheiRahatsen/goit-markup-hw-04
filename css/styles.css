@@ -10,7 +10,6 @@ body {
     width: 1170px;
     margin: 0 auto;
     padding: 0px;
-    border-style: dashed;
 }
 .section {
     padding-top: 94px;
@@ -77,7 +76,7 @@ body {
     display: flex;
     list-style: none;
     padding: 0%;
-    margin: 32px 0px 32px 300px;
+    margin: 32px 0px 32px 255px;
     text-align: right;
 }
 .site-nav .link {
