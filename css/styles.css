@@ -40,7 +40,6 @@ body {
     line-height: 1.2;
     letter-spacing: 0.03em;
     color: #000000;
-    margin-right: 93px;
 }
 .link-studio > span {
     color: var(--brand-color);
