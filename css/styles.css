@@ -355,7 +355,7 @@ body {
 .rectangle {
     height: 120px;
     width: 270px;
-    background: #c7c4cf;
+    background-color: #F5F4FA;
     border-radius: 4px;
   }
   .social-media-icons {
@@ -400,8 +400,22 @@ body {
   .icon-instagram-2:hover,
   .icon-instagram-2:focus,
   .icon-instagram-2:active {
-    fill: var(--brand-color);
-    stroke: #FFFFFF;
+    fill: #FFFFFF;
+  }
+  .icon-twitter-1:hover,
+  .icon-twitter-1:focus,
+  .icon-twitter-1:active {
+    fill: #FFFFFF;
+  }
+  .icon-facebook-1:hover,
+  .icon-facebook-1:focus,
+  .icon-facebook-1:active {
+    fill: #FFFFFF;
+  }
+  .icon-linkedin-1:hover,
+  .icon-linkedin-1:focus,
+  .icon-linkedin-1:active {
+    fill: #FFFFFF;
   }
   .main-section-clients {
     display: flex;
