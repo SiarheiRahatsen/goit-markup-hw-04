@@ -348,6 +348,11 @@ body {
     width: 16px;
     height: 12px;
     margin: 0%;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.icon-envelope:hover {
+    fill: var(--brand-color);
 }
 .icon-antenna-1,
 .icon-clock-1,
