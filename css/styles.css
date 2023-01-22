@@ -55,6 +55,7 @@ body {
 }
 .cont-foot {
     display: inline-block;
+    padding: 0px;
 }
 .cont-foot:last-child {
     margin-top: 72px;
